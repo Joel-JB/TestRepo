@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Testing from the new Branch!");
+    printf("Master Branch: Test file from master branch!");
     return 0;
 }
