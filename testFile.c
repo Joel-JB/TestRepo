@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Testing!");
+    printf("Testing from the new Branch!");
     return 0;
 }
